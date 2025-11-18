@@ -30,12 +30,23 @@ pip install pyserial  # 若安装失败，手动执行此命令
 
 ## 快速开始（Quick Start）
 
-以下示例演示基础控制功能，适用于大多数 Rosmaster 机器人型号。
-
 > Note: You need a robot (e.g., Rosmaster-X3) from Yahboom to test the lib. 
 
+以下示例演示基础控制功能，适用于大多数 Rosmaster 机器人型号:
 
+[test_rosmaster.ipynb](samples/3.test_rosmaster.ipynb)
 
+[beep.ipynb](samples/4.beep.ipynb)
+
+[pwm_servo.ipynb](samples/5.pwm_servo.ipynb)
+
+[rgb_effect.ipynb](samples/6.rgb_effect.ipynb)
+
+[motor.ipynb](samples/7.motor.ipynb)
+
+[car_motion.ipynb](samples/8.car_motion.ipynb)
+
+[arm_servo.ipynb](samples/9.arm_servo.ipynb)
 
 ## 核心功能说明（Core Features）
 
